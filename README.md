@@ -1,2 +1,2 @@
 # mouseTextures
-Analysis code for the paper on mouse textures.
+Source Data File for figure panels in Bolanos et al., Nature Communications 2024
